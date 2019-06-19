@@ -2012,6 +2012,41 @@ design rules under a new name.</description>
 <mfgpreviewcolor name="coppercolor" color="0xFFFFBF00"/>
 <mfgpreviewcolor name="substratecolor" color="0xFF786E46"/>
 </mfgpreviewcolors>
+<errors>
+<approved hash="21,19,fafef8fd78fd7afe"/>
+<approved hash="21,19,c271c073c073c271"/>
+<approved hash="21,19,55ad55ad57af57af"/>
+<approved hash="21,19,6ce210e2101e10e2"/>
+<approved hash="21,19,4770bb734573478f"/>
+<approved hash="21,19,4ca54e5ab05acc5b"/>
+<approved hash="21,19,888389838b838b81"/>
+<approved hash="21,19,9277927790759176"/>
+<approved hash="21,19,e60de40e640e660d"/>
+<approved hash="21,19,68046af814f9e8fa"/>
+<approved hash="21,19,b79eb79eb59b359c"/>
+<approved hash="21,19,0c220e218e218c22"/>
+<approved hash="21,19,622d642d662f662f"/>
+<approved hash="21,19,845d845d865ff85f"/>
+<approved hash="21,19,1f201d221d221f20"/>
+<approved hash="21,19,e1dde2221e23e021"/>
+<approved hash="21,19,4e584c5a4d5a4f58"/>
+<approved hash="21,19,19a11ba314a316a1"/>
+<approved hash="21,19,3fa5385b3ab8c4a7"/>
+<approved hash="21,19,43dc7e207ed982dc"/>
+<approved hash="21,19,449ab898bb66b99b"/>
+<approved hash="21,19,e99be9641567eb67"/>
+<approved hash="21,19,5d60a1635f635d9f"/>
+<approved hash="21,19,55b655b657b457b4"/>
+<approved hash="21,19,5aad26af58af5a53"/>
+<approved hash="4,1,03cff08953ee00a3"/>
+<approved hash="4,1,73a3f0e31b8898c8"/>
+<approved hash="4,1,f385f0c39bac98ee"/>
+<approved hash="4,1,43aa40eebb8f38cf"/>
+<approved hash="4,1,f3b580f383a150de"/>
+<approved hash="4,1,73a640e6838fd0cf"/>
+<approved hash="4,1,63cfe0f33be4f8a4"/>
+<approved hash="4,1,e3b470f21383a0c0"/>
+</errors>
 </board>
 </drawing>
 <compatibility>

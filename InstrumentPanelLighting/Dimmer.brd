@@ -2163,7 +2163,6 @@ design rules under a new name.</description>
 <via x="19" y="66" extent="1-16" drill="0.35"/>
 <via x="36" y="54" extent="1-16" drill="0.35"/>
 <via x="48" y="60" extent="1-16" drill="0.35"/>
-<wire x1="43.72" y1="56.8" x2="48" y2="60" width="0" layer="19" extent="1-1"/>
 </signal>
 </signals>
 <mfgpreviewcolors>
